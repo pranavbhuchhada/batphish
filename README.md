@@ -21,5 +21,5 @@ Usage of BatPhish for attacking targets without prior mutual consent is illegal.
 ```
 git clone https://github.com/pranavbhuchhada/BatPhish
 cd BatPhish
-BarPhish.bat
+batphish.bat
 ```
